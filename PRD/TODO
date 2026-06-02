@@ -1,1 +1,15 @@
 
+# TODO List
+
+- [x] Create GitHub repository and make it public.
+- [x] Create PRD.md.
+- [x] Create PLAN.md.
+- [x] Create TODO.md.
+- [ ] Create `.claude/skills/` folder.
+- [ ] Write `english_to_french.md` skill prompt.
+- [ ] Write `french_to_hebrew.md` skill prompt.
+- [ ] Write `hebrew_to_english.md` skill prompt.
+- [ ] Develop `vector_comparison.py` tool.
+- [ ] Run end-to-end test with Orchestrator Agent.
+- [ ] Write final `README.md` report.
+- [ ] Fill out the `biu-rl07-ex01.docx` submission PDF and upload to Moodle.
