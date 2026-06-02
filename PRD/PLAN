@@ -1,1 +1,22 @@
 
+# Project Plan
+
+## Phase 1: Infrastructure & Management
+- Set up a public GitHub repository.
+- Create management files (PRD, PLAN, TODO).
+- Define project scope and agent architecture.
+
+## Phase 2: Agent Skills Development
+- Create the `.claude/skills/` directory structure.
+- Develop Skill 1 Prompt: English to French translation expert.
+- Develop Skill 2 Prompt: French to Hebrew translation expert.
+- Develop Skill 3 Prompt: Hebrew to English translation expert.
+
+## Phase 3: Tool Development
+- Write a Python script to act as the Vector Distance Comparison Tool.
+- Implement Semantic Search logic to measure distance between the original and final strings.
+
+## Phase 4: Orchestration & Testing
+- Deploy the Master Agent (Orchestrator) to run the chain.
+- Test with the pilot phrase: "One for all and all for one".
+- Document results in README.md.
